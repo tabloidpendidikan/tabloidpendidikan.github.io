@@ -13,4 +13,4 @@ tags = [
 
 +++
 
-Write your post.
+Ini adalah tulisan postingan.
