@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on your-site-name</title>
-    <link>your-site-address/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on your-site-name</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
@@ -10,42 +10,42 @@
     <webMaster>your-email (your-name)</webMaster>
     <lastBuildDate>Wed, 19 Oct 2016 23:35:00 +0900</lastBuildDate>
     
-	<atom:link href="your-site-address/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hugo</title>
-      <link>your-site-address/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
       <author>your-email (your-name)</author>
-      <guid>your-site-address/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>your-site-address/tags/theme/</link>
+      <link>/tags/theme/</link>
       <pubDate>Wed, 19 Oct 2016 23:35:00 +0900</pubDate>
       <author>your-email (your-name)</author>
-      <guid>your-site-address/tags/theme/</guid>
+      <guid>/tags/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project</title>
-      <link>your-site-address/tags/project/</link>
+      <link>/tags/project/</link>
       <pubDate>Wed, 19 Oct 2016 22:35:00 +0900</pubDate>
       <author>your-email (your-name)</author>
-      <guid>your-site-address/tags/project/</guid>
+      <guid>/tags/project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tag</title>
-      <link>your-site-address/tags/tag/</link>
+      <link>/tags/tag/</link>
       <pubDate>Wed, 19 Oct 2016 22:35:00 +0900</pubDate>
       <author>your-email (your-name)</author>
-      <guid>your-site-address/tags/tag/</guid>
+      <guid>/tags/tag/</guid>
       <description></description>
     </item>
     

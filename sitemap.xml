@@ -3,72 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>your-site-address/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/categories/golang/</loc>
+    <loc>/categories/golang/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/tags/hugo/</loc>
+    <loc>/tags/hugo/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/post/post_sample/</loc>
+    <loc>/post/post_sample/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/categories/programming/</loc>
+    <loc>/categories/programming/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/tags/theme/</loc>
+    <loc>/tags/theme/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/</loc>
+    <loc>/</loc>
     <lastmod>2016-10-19T23:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/tags/project/</loc>
+    <loc>/tags/project/</loc>
     <lastmod>2016-10-19T22:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/categories/project/</loc>
+    <loc>/categories/project/</loc>
     <lastmod>2016-10-19T22:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/project/project_sample/</loc>
+    <loc>/project/project_sample/</loc>
     <lastmod>2016-10-19T22:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2016-10-19T22:35:00+09:00</lastmod>
   </url>
   
   <url>
-    <loc>your-site-address/tags/tag/</loc>
+    <loc>/tags/tag/</loc>
     <lastmod>2016-10-19T22:35:00+09:00</lastmod>
   </url>
   
