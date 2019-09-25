@@ -1,6 +1,6 @@
 +++
 date = "2016-10-19T23:35:00+09:00"
-title = "Post title"
+title = "Judul Postingan"
 description = "Post Description"
 categories = [
     "programming",
